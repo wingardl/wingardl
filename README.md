@@ -6,7 +6,7 @@ I'm a software engineer interested in the intersection of CS and social justice.
 
 <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="533px" height="400px"/>
 
-![gif source](https://dribbble.com/shots/5507196-women-who-code#shot-description)
+[gif source](https://dribbble.com/shots/5507196-women-who-code#shot-description)
 ### Quick Facts:
 - 🌱 I’m currently working on a TypeScript/React app that will remind you when it's time to water your plants
 - 🤔 I’m currently learning about systems programming
