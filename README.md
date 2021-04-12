@@ -2,7 +2,7 @@
 
 I'm a software engineer interested in the intersection of CS and social justice.
 
-😊 Currently looking for new grad positions in the Bay Area
+😊 Currently working as a Software Engineer @ Microsoft
 
 <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="533px" height="400px"/>
 
