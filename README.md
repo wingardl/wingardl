@@ -7,7 +7,7 @@
 ### Quick Facts:
 - 🤔 I’m currently learning about ML alignment
 - 👯 I’m looking to make my first open source contributions
-- ⚡ Fun fact: I've been making pottery for 15 years!
+- ⚡ Fun fact: I've been making pottery for 13 years!
 
 ### 📫 Let's connect!
 
