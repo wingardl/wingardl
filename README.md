@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lucy Wingard (she/they)
+# Hi there 👋 I'm Lucy Wingard 
 
 😊 Currently working as a Software Engineer 2 @ Microsoft
 
